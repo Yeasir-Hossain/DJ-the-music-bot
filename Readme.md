@@ -1,4 +1,4 @@
-# Discord Bot with ChatGPT and YouTube Music Integration
+# Discord Bot YouTube Music Integration
 
 ## Overview
 
